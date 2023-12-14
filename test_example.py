@@ -1,3 +1,1 @@
-print("hello")
-
-str = "my name is"
+#사실상 텍스트 파일
